@@ -47,7 +47,7 @@ It offers users the ability to browse fashion products, add items to a cart, and
 
 ### Prerequisites
 
-- Node.js (vX.X.X or higher)  
+- Node.js (v15 or higher)  
 - npm or yarn  
 - Database server (MongoDB / MySQL / PostgreSQL)  
 - (Optional) Angular CLI
